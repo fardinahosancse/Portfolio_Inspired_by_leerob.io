@@ -45,14 +45,14 @@ export default async function Page() {
     <h1 className="font-bold text-2xl mb-8 tracking-tighter">
   hey, I&apos;m fardin ahosan👋
 </h1>
+<h2>
+SQA Engineer | Automation & Manual Consultant | Skilled in Selenium Python Testing, BDD, Page Objects, Data-Driven & End-to-End Frameworks |UI/UX|
+</h2>
+<h3 >
+🔧 🐞 🕵️‍♂️ 🔎 🥷🏽 ☢️ ⚒️
+</h3>
 
-      <p className="prose prose-neutral dark:prose-invert">
-        {`I'm an enthusiastic and dedicated SQA Engineer with expertise in automation and manual testing. I specialize in Selenium Python Testing, BDD, Page Objects, Data-Driven, and End-to-End Frameworks. With a keen eye for UI/UX, I ensure top-notch quality in software applications. Additionally, I have hands-on experience in ReactJS, NodeJS, and Socket.io, having worked on multiple projects. As a result, I bring a holistic perspective to my work and contribute to building robust and reliable software solutions.
- `}
-      </p>
-      
-      
-      <div className="my-8 flex flex-row space-x-2 w-full h-14 overflow-x-auto">
+<div className="my-8 flex flex-row space-x-2 w-full h-14 overflow-x-auto">
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
           <p>Python</p>
         </div>
@@ -73,6 +73,16 @@ export default async function Page() {
         </div>
       </div>
 
+
+
+
+      <p className="prose prose-neutral dark:prose-invert">
+        {`I'm an enthusiastic and dedicated SQA Engineer with expertise in automation and manual testing. I specialize in Selenium Python Testing, BDD, Page Objects, Data-Driven, and End-to-End Frameworks. With a keen eye for UI/UX, I ensure top-notch quality in software applications. Additionally, I have hands-on experience in ReactJS, NodeJS, and Socket.io, having worked on multiple projects. As a result, I bring a holistic perspective to my work and contribute to building robust and reliable software solutions.
+ `}
+      </p>
+      
+      
+      
 
 
 

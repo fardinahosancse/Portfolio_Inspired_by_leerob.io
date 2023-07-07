@@ -11,6 +11,10 @@ html {
   min-width: 360px;
 }
 
+h2{
+  font-weight: bold;
+  }
+
 .prose .anchor {
   @apply absolute invisible no-underline;
 
