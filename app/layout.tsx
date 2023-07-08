@@ -24,15 +24,15 @@ const graphik = localFont({
 export const metadata: Metadata = {
   metadataBase: new URL('https://github.com/fardinahosancse'),
   title: {
-    default: 'Fardin Ahosan',
+    default: 'Fardin Ahosan Portfolio',
     template: '%s | Fardin Ahosan',
   },
   description: 'Developer, writer, and creator.',
   openGraph: {
-    title: 'Fardin Ahosan',
+    title: 'Fardin Ahosan Portfolio',
     description: 'Developer, writer, and creator.',
     url: 'https://github.com/fardinahosancse',
-    siteName: 'Fardin Ahosan',
+    siteName: 'Fardin Ahosan Portfolio',
     locale: 'en-US',
     type: 'website',
   },
