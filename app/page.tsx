@@ -45,8 +45,14 @@ export default async function Page() {
     <h1 className="font-bold text-2xl mb-8 tracking-tighter">
   hey, I&apos;m fardin ahosan👋
 </h1>
+<h1 className="font-bold text-2xl mb-8 tracking-tighter">
+  SQA Engineer
+</h1>
+<h1 className="font-bold text-2xl mb-8 tracking-tighter">
+unidevGO Software Solutions Ltd.
+</h1>
 <h2>
-SQA Engineer | Automation & Manual Consultant | Skilled in Selenium Python Testing, BDD, Page Objects, Data-Driven & End-to-End Frameworks |UI/UX|
+SFC™ | Automation | Manual Testing | Selenium | pytest | Postman | Python | JMeter | UI/UX | Self-Proclaimed Artist |Tech Polymath
 </h2>
 <h3 >
 🔧 🐞 🕵️‍♂️ 🔎 🥷🏽 ☢️ ⚒️
@@ -56,18 +62,30 @@ SQA Engineer | Automation & Manual Consultant | Skilled in Selenium Python Testi
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
           <p>Python</p>
         </div>
-
+        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+          <p>pyTest</p>
+        </div>
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
           <p>Selenium</p>
         </div>
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
-          <p>Cypress</p>
+          <p>Playwright</p>
+        </div>
+        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+          <p>Scrum</p>
         </div>
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
 
-        <p>Postman</p>
+        <p>JMeter</p>
         </div>
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+          <p>Postman</p>
+        </div>
+
+        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+          <p>ReactJS</p>
+        </div>
 
         <p>UI/UX</p>
         </div>
@@ -77,8 +95,7 @@ SQA Engineer | Automation & Manual Consultant | Skilled in Selenium Python Testi
 
 
       <p className="prose prose-neutral dark:prose-invert">
-        {`I'm an enthusiastic and dedicated SQA Engineer with expertise in automation and manual testing. I specialize in Selenium Python Testing, BDD, Page Objects, Data-Driven, and End-to-End Frameworks. With a keen eye for UI/UX, I ensure top-notch quality in software applications. Additionally, I have hands-on experience in ReactJS, NodeJS, and Socket.io, having worked on multiple projects. As a result, I bring a holistic perspective to my work and contribute to building robust and reliable software solutions.
- `}
+        {`I am a seasoned Software Development Engineer in Test with a year of hands-on experience in manual and automated testing. My expertise includes proficiency in tools such as Selenium, Postman, Pytest, Jira, and Jenkins. Holding a Scrum Fundamentals Certification, I prioritize agile project management and effective team collaboration.`}
       </p>
       
       
@@ -154,8 +171,7 @@ SQA Engineer | Automation & Manual Consultant | Skilled in Selenium Python Testi
       
       <div className="prose prose-neutral dark:prose-invert">
       <p>
-      Over the past four years, I have immersed myself in various tools and technologies, exploring diverse fields such as Level design, Interior design, UI/UX design, and Full Stack development (MERN stack). This multidisciplinary experience has provided me with a strong foundation and a comprehensive understanding of a wide range of technologies. By venturing into different fields, I have developed a versatile mindset that allows me to approach challenges from different angles, think creatively, and find innovative solutions. This diverse experience has also enriched my ability to collaborate effectively with professionals from different domains, fostering a holistic approach to problem-solving.
-       </p>
+      Beyond my technical skills, I am a passionate artist, infusing creativity into software development by focusing on aesthetics and user experience. My adventurous spirit and love for global exploration have honed my adaptability and cross-cultural communication skills. Over the past four years, I've ventured into diverse fields like Level design, Interior design, UI/UX design, and Full Stack development (MERN stack), fostering a versatile mindset. </p>
 
       </div>
 
