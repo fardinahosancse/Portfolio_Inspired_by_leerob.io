@@ -78,18 +78,22 @@ SFC™ | Automation | Manual Testing | Selenium | pytest | Postman | Python | JM
 
         <p>JMeter</p>
         </div>
-        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
-        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+        
+</div>
+
+
+<div className="my-8 flex flex-row space-x-2 w-full h-14 overflow-x-auto">
+<div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
           <p>Postman</p>
         </div>
-
         <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
           <p>ReactJS</p>
         </div>
-
-        <p>UI/UX</p>
+        <div className="border border-neutral-200 dark:border-neutral-700 bg-neutral-50 dark:bg-neutral-800 rounded flex items-center justify-between px-3 py-4">
+          <p>UI/UX</p>
         </div>
-      </div>
+      
+</div>
 
 
 
@@ -171,7 +175,7 @@ SFC™ | Automation | Manual Testing | Selenium | pytest | Postman | Python | JM
       
       <div className="prose prose-neutral dark:prose-invert">
       <p>
-      Beyond my technical skills, I am a passionate artist, infusing creativity into software development by focusing on aesthetics and user experience. My adventurous spirit and love for global exploration have honed my adaptability and cross-cultural communication skills. Over the past four years, I've ventured into diverse fields like Level design, Interior design, UI/UX design, and Full Stack development (MERN stack), fostering a versatile mindset. </p>
+      Beyond my technical skills, I am a passionate artist, infusing creativity into software development by focusing on aesthetics and user experience. My adventurous spirit and love for global exploration have honed my adaptability and cross-cultural communication skills. Over the past four years, I have ventured into diverse fields like Level design, Interior design, UI/UX design, and Full Stack development (MERN stack), fostering a versatile mindset. </p>
 
       </div>
 
